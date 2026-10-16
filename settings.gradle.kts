@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ArrowFlow"
+rootProject.name = "ArrowEscape"
 include(":app")

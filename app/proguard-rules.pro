@@ -1,4 +1,4 @@
-# ProGuard rules for ArrowFlow Native App
+# Arrow Escape native ProGuard rules
 -keepclassmembers class * {
-    @androidx.annotation.Keep *;
+    @androidx.compose.runtime.Composable *;
 }
