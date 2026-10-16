@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Arrow Flow</string>
+    <string name="level_label">Level %1$d</string>
+    <string name="moves_left">Moves: %1$d</string>
+    <string name="arrows_left">Arrows: %1$d</string>
+    <string name="iq_score">IQ: %1$d</string>
+    <string name="coins_label">%1$d</string>
+    <string name="lives_label">%1$d/5</string>
+
+    <!-- Boosters -->
+    <string name="booster_hint">Hint</string>
+    <string name="booster_auto">Auto</string>
+    <string name="booster_bomb">Bomb</string>
+    <string name="booster_hint_desc">Highlights a clearable arrow</string>
+    <string name="booster_auto_desc">Fires 3 unobstructed arrows</string>
+    <string name="booster_bomb_desc">Removes a blocking obstacle</string>
+
+    <!-- Victory Dialog -->
+    <string name="victory_title">Level Clear!</string>
+    <string name="victory_subtitle">Excellent deduction</string>
+    <string name="btn_next_level">Next Level</string>
+    <string name="iq_gained">+%1$d IQ</string>
+    <string name="stars_earned">Stars: %1$d/3</string>
+
+    <!-- Game Over Dialog -->
+    <string name="game_over_title">Out of Lives!</string>
+    <string name="game_over_subtitle">Don\'t give up, tap carefully!</string>
+    <string name="btn_try_again">Try Again</string>
+    <string name="btn_refill_lives">Refill Lives</string>
+
+    <!-- Settings Dialog -->
+    <string name="settings_title">Settings</string>
+    <string name="setting_sound">Sound Effects</string>
+    <string name="setting_haptic">Haptic Feedback</string>
+    <string name="setting_dark_mode">Dark Mode</string>
+    <string name="setting_reset">Reset Progress</string>
+    <string name="setting_about">About Arrow Flow</string>
+    <string name="btn_close">Close</string>
+
+    <!-- Combos -->
+    <string name="combo_good">Good!</string>
+    <string name="combo_awesome">Awesome!</string>
+    <string name="combo_wonderful">Wonderful!</string>
+    <string name="combo_epic">Epic Clear!</string>
+</resources>
