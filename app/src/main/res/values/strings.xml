@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Arrow Escape</string>
+    <string name="app_name">Arrow Flow</string>
     <string name="subtitle">Directional Puzzle Maze</string>
     <string name="play">PLAY</string>
     <string name="daily_challenge">DAILY CHALLENGE</string>
